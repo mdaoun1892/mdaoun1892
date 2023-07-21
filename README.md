@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdaoun1892
-- 👀 I’m interested in the Data Science field
-- 🌱 I’m currently in my 2nd year of MSc in IT - Track Data Science in IMT Atlantique
-- 💞️ I’m looking to collaborate on Data Science projects
+- 👀 I’m interested in the Data Engineering field
+- 🌱 I’m currently working as a Data Analyst Marketing at Cherz
+- 💞️ I’m looking to collaborate on Data Engineering / Analytics projects
 - 📫 You can reach me on my email michelbdaoun@gmail.com
 
 <!---
